@@ -1,8 +1,8 @@
 # Decomposition
 
-When writing code, sometimes the problem is so big or complex that we don't know where to start, what to do, and in what order.We can use decomposition to solve this problem.
+When writing code, sometimes the problem is so big or complex that we don't know where to start, what to do, and in what order. We can use decomposition to solve this problem.
 
-Decomposition is a useful problem-solving strategy that breaks down a complex problem or system into parts that are easier to grasp, understand, and program.The decomposition unit in Java is the class.
+Decomposition is a useful problem-solving strategy that breaks down a complex problem or system into parts that are easier to grasp, understand, and program. The decomposition unit in Java is the class.
 
 For decomposition to work,
 
@@ -27,7 +27,6 @@ For decomposition to work,
 + If parts of a problem are worked on in parallel, it may be difficult or impossible to eventually recombine them into a single solution and solve the original problem.
 
 ## Check More
-#
 
 1. [What is decomposition?](https://www.bbc.co.uk/bitesize/topics/zkcqn39/articles/z8ngr82)
 2. [Decomposition and Abstraction](https://www.ealingindependentcollege.com/userfiles/files/GCSE%20specs/Decomposition%20and%20Abstraction_docx.pdf)

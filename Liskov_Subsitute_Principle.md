@@ -11,7 +11,6 @@ Code reviews or tests can be written to see if we are successful in applying thi
 Finally, this principle is similar to the Open/Closed Principle, and following the Open/Closed Principle also simplifies the application of the Liskov Principle.
 
 ## Example
-#
 
 ```java
 public class Mammals{
@@ -40,7 +39,6 @@ public class Dolphin extends Mammals{}
 ```
 
 ## Check More
-#
 
 1. [Data Abstraction and Hierarchy](https://www.cs.tufts.edu/~nr/cs257/archive/barbara-liskov/data-abstraction-and-hierarchy.pdf)
 2. [The Liskov Substitution Principle with Code Examples](https://stackify.com/solid-design-liskov-substitution-principle/)
