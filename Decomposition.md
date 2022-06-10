@@ -2,7 +2,7 @@
 
 When writing code, sometimes the problem is so big or complex that we don't know where to start, what to do, and in what order. We can use decomposition to solve this problem.
 
-Decomposition is a useful problem-solving strategy that breaks down a complex problem or system into parts that are easier to grasp, understand, and program. The decomposition unit in Java is the class.
+Decomposition is a useful problem-solving strategy that breaks down a complex problem or system into parts that are easier to  understand, and program. The decomposition unit in Java is the class.
 
 For decomposition to work,
 
