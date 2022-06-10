@@ -21,7 +21,7 @@ For decomposition to work,
 + When the problem is divided into sub-tasks, each sub-task can be examined in detail.
 + Maintenance is easier.
 
-## Dissdvantages
+## Disadvantages
 
 + Poorly understood problems are difficult to decompose.
 + If parts of a problem are worked on in parallel, it may be difficult or impossible to eventually recombine them into a single solution and solve the original problem.
