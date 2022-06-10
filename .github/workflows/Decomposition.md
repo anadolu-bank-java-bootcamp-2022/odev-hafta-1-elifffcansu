@@ -12,7 +12,6 @@ For decomposition to work,
 + It should be easy to explain what the function accomplishes.
 
 ## Advantages
-#
 
 + The code of a complex program can run on many lines of code. If a mistake is made, it takes a long time to find it. Decomposition speeds up fault finding and saves time.
 + It allows programmers to easily copy and reuse useful pieces of code for other programs.
@@ -23,7 +22,6 @@ For decomposition to work,
 + Maintenance is easier.
 
 ## Dissdvantages
-#
 
 + Poorly understood problems are difficult to decompose.
 + If parts of a problem are worked on in parallel, it may be difficult or impossible to eventually recombine them into a single solution and solve the original problem.
